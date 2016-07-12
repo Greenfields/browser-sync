@@ -76,4 +76,4 @@ If you've found Browser-sync useful and would like to contribute to its continue
 
 
 Apache 2
-Copyright (c) 2016 Shane Osbourne
+ Copyright (c) 2016 Shane Osbourne
